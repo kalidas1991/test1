@@ -9,6 +9,8 @@ public class IfStatementExample {
 		}
 		else {
 			System.out.println("Fail");
+			
+			// Added code
 		}
 	}
 }
